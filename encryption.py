@@ -1,3 +1,5 @@
+#Simple Caesar cipher program capable of encrypting/decrypting text (there is a ~250 word limit), as well as outputting a .txt file containing letter frequency.
+#This was used to analyse the frequency of letters in any given text for a project.
 import sys
 import os
 import time
